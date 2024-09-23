@@ -20,9 +20,9 @@ C = "\033[1;97m"
 X = '\037' 
 G = '\033[1;32m'
 R = '\033[1;31m'
-id = "761058551"
+id = "6841385539"
 
-token = "7517539122:AAGNlQHVskHOf-nmvmvBQpLNRkknWfSuOMU"
+token = "8045191305:AAGMz6G5V_iDJypaqN6wQeh9JhcYRMkkft0"
 bot = telebot.TeleBot(token)
 
 
